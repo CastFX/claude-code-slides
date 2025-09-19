@@ -1,4 +1,6 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Presentation for Domyn about Claude Code
+
+Based on [Slidev](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
 
