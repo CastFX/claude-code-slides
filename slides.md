@@ -58,7 +58,7 @@ Unless you get ratelimited, ofc. Because this thing consumes A LOT of tokens.
 
 But limits reset every 5h, thankfully. Or you can just upgrade to the $200/month max plan.
 
-Remember to treat it like a junior coder: always inspect the diff and make sure it cannot do any real harm.
+Remember to treat it like a junior dev: always inspect the diff and make sure it cannot do any real harm.
 
 ::right::
 
