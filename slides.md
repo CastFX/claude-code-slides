@@ -535,6 +535,7 @@ claude
 <div>
 
 ## 🛠️ Tools
+- [Terminal Benchmark Leaderboard](https://www.tbench.ai/leaderboard)
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 - [Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 - [Claudia - Desktop App](https://claudia.so/)
